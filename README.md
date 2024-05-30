@@ -1,2 +1,3 @@
-# AddSum
-Memory Sum Game
+## AddSum
+# Oyun amacı 
+  
