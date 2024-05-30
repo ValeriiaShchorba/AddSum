@@ -25,8 +25,13 @@ Giriş ekranında oyunun kısa bir özeti bulunmaktadır
 ![Ekran Görüntüsü (94)](https://github.com/ValeriiaShchorba/AddSum/assets/161506293/a8d45c16-3904-400e-b1bf-a68a47496775) ![Ekran Görüntüsü (95)](https://github.com/ValeriiaShchorba/AddSum/assets/161506293/d3542789-61ce-4f53-bc83-be860bb35869) ![Ekran Görüntüsü (96)](https://github.com/ValeriiaShchorba/AddSum/assets/161506293/e8f59c10-ea91-4c76-9538-4b1544478ece)![Ekran Görüntüsü (97)](https://github.com/ValeriiaShchorba/AddSum/assets/161506293/45671bbe-87c3-4846-8cd5-83387fe23e86)
 
  Yapılan işlemin doğru ya da yanlış olduğu ekranda gösterilmektedir.Her yanlışta bir can hakkı gitmektedir
+ ## Oyun Sonu Ekranı
+ ![Ekran Görüntüsü (98)](https://github.com/ValeriiaShchorba/AddSum/assets/161506293/752ea246-7a99-4c37-b340-d6ac09086b6c)
  
+Canlarınız bittiğinde oyun sonunda çıkan ekran. Resart tuşuna basarak tekrar başlayabiirsiniz.
 
+## Oynanış Vdeosu
+https://github.com/ValeriiaShchorba/AddSum/assets/161506293/b4120809-0b69-4a7f-b8b6-ab22243f0861
 
 
 
