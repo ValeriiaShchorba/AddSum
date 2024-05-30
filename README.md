@@ -33,5 +33,9 @@ Canlarınız bittiğinde oyun sonunda çıkan ekran. Resart tuşuna basarak tekr
 ## Oynanış Vdeosu
 https://github.com/ValeriiaShchorba/AddSum/assets/161506293/b4120809-0b69-4a7f-b8b6-ab22243f0861
 
+### İletişim Bigileri
+ * Tel No : +905526129787
+ * E-mail : valeriiashchorba@gmail.com
+
 
 
